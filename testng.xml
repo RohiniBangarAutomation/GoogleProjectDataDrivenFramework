@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="DD_Tests.Ass10MailCount"/>
+      <class name="DD_Tests.StarEmailCountAss11"/>
+      <class name="DD_Tests.VerifyAppsLaunchAss3"/>
+      <class name="DD_Tests.GoogleAppLoginAss4"/>
+      <class name="DD_Tests.VerifygoogleProductAss8"/>
+      <class name="DD_Tests.Ass9gmail_Login"/>
+      <class name="DD_Tests.LangClicks5n6"/>
+      <class name="DD_Tests.Ass4googlePhotos"/>
+      <class name="DD_Tests.GoogleAppsverifyAss2"/>
+      <class name="DD_Tests.GoogleLaunchAss1"/>
+      <class name="DD_Tests.GoogleSearchAss7"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
